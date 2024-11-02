@@ -1,15 +1,24 @@
 ---
-title: Index page
-timestamp: 2015-10-11T12:30:01
+title: Code Maven - Magyarul
+timestamp: 2020-05-29T21:00:03
 published: true
-author: foobar
-description: The text for the search engines
-tags:
-    - blog
-todo:
-    - TODO
+show_related: false
 ---
 
-This is the main page of your site.
+## Üdvözöllek a Code Maven magyar változatán!
+
+<div class="main-content">
+A Code Maven lap célja, segítse a számítástechnikai piacon dolgozókat és azokat akiket ezzel szeretnének foglalkozni.
+A tartalom nagy része az angol változaton van, de a magyaron is lesz néhány lap és néhány video.
+A legtöbb lapon technikai tartalom található, de akad olyan is ahol arról van szó, hogyan találhatunk munkát, vagy hogyan
+mutathatjuk be a tudásunkat.
+</div>
 
 
+<div class="main-content">
+Nézz körül és ha követni szeretnéd a lapot, akkor javaslom hogy a kövesd a [Code Maven YouTube csatornát](/youtube)
+és a [Code Maven LinkedIn lapot](/linkedin).
+</div>
+
+
+{% youtube id="yo9PO-NE3aQ" %}

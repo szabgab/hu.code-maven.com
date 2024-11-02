@@ -69,7 +69,7 @@ navbar:
   end:
     - path: /archive
       title: Archívum
-    - path: /about
+    - path: /rolunk
       title: Rólunk
 
 
