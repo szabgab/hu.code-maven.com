@@ -34,7 +34,6 @@ jobs:
 
       - name: Generate pages
         run: |
-          ./generate.sh
           ./code-maven web
 
       - name: Upload artifact
