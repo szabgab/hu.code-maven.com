@@ -14,8 +14,8 @@ Magyar Rust csoportok:
 
 
 
-1[](images/rust-logo-512x512.png)
+![](images/rust-logo-512x512.png)
 
-1[](images/rustacean-ferris-orig-noshadow.png)
+![](images/rustacean-ferris-orig-noshadow.png)
 
 
