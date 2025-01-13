@@ -10,7 +10,7 @@ Magyar Rust csoportok:
 
 * [Facebook](https://www.facebook.com/groups/rusthungary)
 * [LinkedIn](https://www.linkedin.com/groups/9588003/)
-
+* [Telegram](https://t.me/RustMagyarul)
 
 
 
