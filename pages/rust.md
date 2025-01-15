@@ -6,12 +6,16 @@ published: true
 
 A [Rust programozási nyelv](https://www.rust-lang.org/) magyarul. Nem, nem a [játék](https://rust.facepunch.com/).
 
-Magyar Rust csoportok:
+Az áltlam ismert magyar Rust csoportok. Ha van más is, írj vagy küldj egy PR-t.
 
 * [Facebook](https://www.facebook.com/groups/rusthungary)
 * [LinkedIn](https://www.linkedin.com/groups/9588003/)
 * [Telegram](https://t.me/RustMagyarul)
 
+Lesz egy találkozó Budapesten. Ha érdekel csatlakozz a Telegram csoporthoz. Ott szervezzük.
+
+
+Ezek meg azért vannak itt, hogy elriasszuk azokat akik a Rust játékot keresik:
 
 
 ![](images/rust-logo-512x512.png)
